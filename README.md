@@ -1,3 +1,3 @@
-Simple login form with username password checking <br>
+Simple login form with username password
 username:azize<br>
 password:000
